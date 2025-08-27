@@ -7,7 +7,6 @@ A simple web application to match resumes against a job description.
 Upload a job description and multiple resumes (PDF or DOCX) and the app ranks candidates by similarity using TF-IDF and cosine similarity.  
 
 **Live Demo:** https://YOUR-RENDER-URL.onrender.com  
-**Repository:** https://github.com/YOUR-USERNAME/AIResumeMatcher
 
 ---
 
